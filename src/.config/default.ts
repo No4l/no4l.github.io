@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'Typography',
     author: 'Moeyua',
     description: 'Rediscory the beauty of typography',
-    website: 'https://no4l.github.io/',
+    website: 'https://www.noel.wiki/',
     pageSize: 5,
     socialLinks: [
       {
